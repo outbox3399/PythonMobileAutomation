@@ -1,0 +1,6 @@
+setup.py
+mocafi_mobile_automation.egg-info/PKG-INFO
+mocafi_mobile_automation.egg-info/SOURCES.txt
+mocafi_mobile_automation.egg-info/dependency_links.txt
+mocafi_mobile_automation.egg-info/requires.txt
+mocafi_mobile_automation.egg-info/top_level.txt
