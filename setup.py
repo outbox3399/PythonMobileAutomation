@@ -9,7 +9,7 @@ setup(name='mocafi-mobile-automation',
       url='https://development.mocafi.com',
       packages=find_packages(),
       install_requires=[
-          "pytest==5.4.2",
+          "pytest==9.0.3",
           "pytest-html==2.1.1",
           "selenium==3.141.0",
           "Appium-Python-Client==1.2.0"
